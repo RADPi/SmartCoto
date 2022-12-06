@@ -1,0 +1,35 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "string"
+        },
+        "createdAt": {
+            "bsonType": "date"
+        },
+        "id_Categoria": {
+            "bsonType": "string"
+        },
+        "id_subCategoria": {
+            "bsonType": "string"
+        },
+        "marca": {
+            "bsonType": "string"
+        },
+        "nombre": {
+            "bsonType": "string"
+        },
+        "precioMax": {
+            "bsonType": "int"
+        },
+        "precioMin": {
+            "bsonType": "int"
+        },
+        "presentacion": {
+            "bsonType": "string"
+        },
+        "updatedAt": {
+            "bsonType": "date"
+        }
+    },
+    "title": "producto"
+}
