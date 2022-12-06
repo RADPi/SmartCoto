@@ -1,0 +1,8 @@
+{
+    "app_id": "smartcoto-hyiaw",
+    "config_version": 20210101,
+    "name": "SmartCoto",
+    "location": "BR-SP",
+    "provider_region": "aws-sa-east-1",
+    "deployment_model": "LOCAL"
+}
